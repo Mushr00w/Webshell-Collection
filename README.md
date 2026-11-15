@@ -7,8 +7,8 @@ Open source, unobfuscated webshell collection for research and malware analysis.
 ```
 Webshell-Collection/
 └── php/
-    └── holo-shell/
-        ├── holo.php
+    └── <shell-name>/
+        ├── <shell>.php
         └── NOTES.txt
 ```
 
