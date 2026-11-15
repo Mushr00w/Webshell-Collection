@@ -1,0 +1,5 @@
+Name: c99 shell v2025
+Family: PHP webshell
+Source: Unknown
+SHA256: 74b70458389feaceec7479c25baa410f1cf074252139d2fa4b394192c61aa0d0
+Notes: Re-engineered version of the classic C99 shell. Features file manager, command execution, zip/unzip, chmod, symlink, edit, and auto-bypass.
