@@ -1,0 +1,5 @@
+Name: Russian File Manager Shell
+Family: PHP webshell (file manager)
+Source: Unknown
+SHA256: 17c9f9058a623925686fb142f9e31b06d8eeb29e241c4cd4841aab4b3c6e426e
+Notes: File manager webshell with a Russian-scene origin. Advertised as "bypass all servers." Likely related to or derived from the WSO (Web Shell by Orb) family. Treat as potentially carrying a third-party backdoor.
