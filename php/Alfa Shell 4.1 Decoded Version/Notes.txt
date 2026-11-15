@@ -1,0 +1,5 @@
+Name: Alfa Shell
+Family: PHP webshell
+Source: Unknown
+SHA256: 2ac4281609da45911477f1818b95b99ccc0cdeec09fcd64bdf8c0a18ae3e5a90
+Notes: Feature-rich PHP webshell (ALFA TEaM) with file manager, command execution, SQL browser, CGI backdoor installer, FTP brute-force, and mass defacement modules. Known for containing a hidden mail() beacon that reports compromised hosts back to the kit author. Also distributed as "Alfa Shell 4.1 Decoded" — identical hash.
