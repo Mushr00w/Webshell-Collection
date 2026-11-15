@@ -1,0 +1,5 @@
+Name: Anti-Bypass Mini Shell
+Family: PHP webshell (mini shell)
+Source: privdayz.com
+SHA256: 01ea683a20e6d6b737d9b7a901c85963821a003aa0c05738edaa5e2523fdb3be
+Notes: Password-protected mini shell attributed to privdayz.com. Provides file manager (list, create, delete, rename, chmod, upload, edit), command execution via passthru/exec/shell_exec/system, PHP eval, and phpinfo. Uses a hardcoded password and cookie-based auth; includes remote CSS/logo references to privdayz.com.
