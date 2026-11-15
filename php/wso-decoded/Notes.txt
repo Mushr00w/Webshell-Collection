@@ -1,0 +1,5 @@
+Name: WSO Shell
+Family: PHP webshell (Web Shell by Orb)
+Source: Unknown
+SHA256: 5ae32e831fc08c69ba06fe53e19bb3c22cb0c1f6f0e9141b85187a9ad800b6bd
+Notes: Web Shell by Orb (WSO), one of the most widespread PHP webshells. Feature-rich: file manager, command execution, SQL client, PHP eval, FTP brute-force. Default authentication varies by version. Known for anti-forensics features: User-Agent filtering, error logging suppression, and self-rename. Some distributions carry the W0rm supply-chain backdoor (unauthenticated ?cmd= RCE) — treat any unknown copy as potentially backdoored. This sample is distributed as "WSO Shell decoded".
