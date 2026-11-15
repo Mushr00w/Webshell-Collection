@@ -1,0 +1,5 @@
+Name: Holo Shell // Ghost Edition
+Family: PHP post-exploitation framework (WAF-agnostic / stealth)
+Source: Unknown
+SHA256: 9e732ec6d956d5241baf4dd36cfaea44acadb9af48deae27010439c97beca383
+Notes: AJAX-based single-page application (SPA) shell with a "Dead Man's Switch" integrity mechanism. Advertised as WAF-agnostic and stealth-oriented.
