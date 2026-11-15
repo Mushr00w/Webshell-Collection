@@ -1,0 +1,5 @@
+Name: WSO ASPX
+Family: ASPX webshell (WSO variant)
+Source: Unknown
+SHA256: 5bfc48e9322dda582a9879c2158c5387728235e6ce53b5bee31a7aa5597f1009
+Notes: ASPX variant bearing the WSO name, targeting .NET/IIS Windows servers. Claimed features include multiple command execution engines, file manager, registry operations, MSSQL xp_cmdshell, process/user enumeration, port scanning, and event log access. Original WSO is a well-known PHP webshell (Web Shell by Orb); this ASPX build's provenance and code integrity are unverified.
