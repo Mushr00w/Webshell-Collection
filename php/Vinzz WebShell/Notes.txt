@@ -1,0 +1,5 @@
+Name: Vinzz WebShell
+Family: PHP webshell
+Source: Unknown
+SHA256: 2086488181611c3a31f704a607ebddf4e52b058f431085416fc964d4943c9df5
+Notes: PHP-based remote administration tool with command execution, file upload/download/manipulation, server environment display, and basic database interaction. No verified public documentation or detection signatures found.
